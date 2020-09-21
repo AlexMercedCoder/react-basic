@@ -1,0 +1,23 @@
+{
+  "name": "react-basic",
+  "version": "1.0.0",
+  "description": "Spin up a basic react/webpack build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-basic": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/create-mercedui-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/create-mercedui-app/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/create-mercedui-app#readme"
+}
