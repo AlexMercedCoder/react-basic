@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexMercedCoder/create-mercedui-app.git"
+    "url": "git+https://github.com/AlexMercedCoder/react-basic.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexMercedCoder/create-mercedui-app/issues"
+    "url": "https://github.com/AlexMercedCoder/react-basic/issues"
   },
-  "homepage": "https://github.com/AlexMercedCoder/create-mercedui-app#readme"
+  "homepage": "https://github.com/AlexMercedCoder/react-basic#readme"
 }
