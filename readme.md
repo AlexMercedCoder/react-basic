@@ -1,10 +1,10 @@
-# react-basic
+# create-react-basic
 
 This is a command-line tool for basic react build for practice or to build upon.
 
 ## Create a project
 
-`npx react-basic <projectname>`
+`npx create-react-basic <projectname>` (project name will default to "myproject" if not specified)
 
 after it completes cd into the project folder
 
